@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 'AVService Станція технічного обслуговування '
-image: /img/home-jumbotron.jpg
+image: /img/bg_slider_1.jpg
 heading: Great coffee with a conscience
 subheading: 'Нивки, вул. Данила Щербаківського 45А. (097) 399-38-38, (063) 335-38-38'
 mainpitch:
