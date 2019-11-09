@@ -2,12 +2,17 @@
 templateKey: index-page
 title: 'AVService Станція технічного обслуговування '
 image: /img/bg_slider_1.jpg
-heading: Great coffee with a conscience
+heading: Ми допоможемо відремонтувати Вашу автівку
 subheading: 'Нивки, вул. Данила Щербаківського 45А. (097) 399-38-38, (063) 335-38-38'
 mainpitch:
-  title: Чому саме ми?
-  description: |
-    Наше СТО працює вже понад 4 роки, ми знаходимось терріторіально в
+  title: 'Чому саме ми? '
+  description: >-
+    СТО AV Service майстерня успішно працює понад 4 роки, у нас працюють
+    досвідчені фахівці з величезним досвідом обслуговування різних марок авто,
+    матеріально-технічна база оснащена сучасним та високоякісним інструментом та
+    обладнанням, майстерня має всі сертифікати відповідності і багато партнерів
+    с автозапчастинами які швидко і в найкоротший строк доставлять необхідні
+    деталі 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
