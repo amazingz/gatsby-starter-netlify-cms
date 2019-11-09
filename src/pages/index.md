@@ -3,14 +3,11 @@ templateKey: index-page
 title: 'AVService Станція технічного обслуговування '
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: 'Київ, Нивки, вул. Данила Щербаківського 45А'
+subheading: 'Нивки, вул. Данила Щербаківського 45А. (097) 399-38-38, (063) 335-38-38'
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Чому саме ми?
+  description: |
+    Наше СТО працює вже понад 4 роки, ми знаходимось терріторіально в
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
