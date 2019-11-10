@@ -55,8 +55,7 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-    
-    pricing:
+pricing:
   heading: Monthly subscriptions
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
