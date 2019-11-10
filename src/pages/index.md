@@ -26,7 +26,7 @@ intro:
         Кузовні роботи любої складності
     - image: /img/services-3-550x327.jpg
       text: Фарбування
-    - image: /img/meeting-space.png
+    - image: /img/services-promo-bg-1.jpg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
