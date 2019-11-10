@@ -75,6 +75,12 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact/examples">
                 Онлайн запис
               </Link>
+              <Link className="navbar-item" to="/contact/examples">
+              (097) 399-38-38
+              </Link>
+              <Link className="navbar-item" to="/contact/examples">
+              (063) 335-38-38
+              </Link>
             </div>
             <div className="navbar-end has-text-centered">
               <a
