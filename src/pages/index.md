@@ -2,22 +2,17 @@
 templateKey: index-page
 title: 'AVService Станція технічного обслуговування '
 image: /img/bg_slider_1.jpg
-heading: Ми допоможемо відремонтувати Вашу автівку
+heading: Ціни на послуги AV Service
 subheading: 'Нивки, вул. Данила Щербаківського 45А. (097) 399-38-38, (063) 335-38-38'
 mainpitch:
-  title: 'Чому саме ми? '
+  title: Наш Автосервіс
   description: >-
-    СТО AV Service майстерня успішно працює понад 4 роки, у нас працюють
-    досвідчені фахівці з величезним досвідом обслуговування різних марок авто,
-    матеріально-технічна база оснащена сучасним та високоякісним інструментом та
-    обладнанням, майстерня має всі сертифікати відповідності і багато партнерів
-    с автозапчастинами які швидко і в найкоротший строк доставлять необхідні
-    деталі 
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Ми досвідчені фахівці з величезним досвідом роботи, Майстерня СТО AV Service
+    успішно працює понад 4 роки, наша матеріально-технічна база оснащена
+    сучасним та високоякісним інструментом та обладнанням, майстерня має всі
+    сертифікати відповідності і багато партнерів с автозапчастинами які швидко і
+    в найкоротший строк доставлять необхідні деталі 
+description: Зверніть увагу ціни можуть змінюватись залежно від марки авто*
 intro:
   blurbs:
     - image: /img/services-1-550x327.jpg
@@ -27,13 +22,13 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
+    - image: /img/services-2-550x327.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - image: /img/tutorials.png
+    - image: /img/services-4-550x327.jpg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
