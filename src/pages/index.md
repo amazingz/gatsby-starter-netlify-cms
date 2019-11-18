@@ -1,17 +1,18 @@
 ---
 templateKey: index-page
-title: 'AVService Станція технічного обслуговування '
 image: /img/bg_slider_1.jpg
-heading: Ціни на послуги AV Service
+title: 'AVService Станція технічного обслуговування '
 subheading: 'Київ, Нивки, Данила Щербаківського 45А. (097) 399-38-38, (063) 335-38-38'
+subheading1: '(097) 399-38-38, (063) 335-38-38'
+heading: Ціни на послуги AV Service
 mainpitch:
   title: Наш Автосервіс
   description: >-
-    Ми досвідчені фахівці з величезним досвідом роботи, Майстерня СТО AV Service
+    Ми досвідчені фахівці з величезним досвідом роботи. Майстерня СТО AV Service
     успішно працює понад 4 роки, наша матеріально-технічна база оснащена
     сучасним та високоякісним інструментом та обладнанням, майстерня має всі
     сертифікати відповідності і багато партнерів с автозапчастинами які швидко і
-    в найкоротший строк доставлять необхідні деталі 
+    в найкоротший строк доставлять необхідні запчастини.
 description: Зверніть увагу ціни можуть змінюватись залежно від марки авто*
 intro:
   blurbs:
@@ -55,33 +56,5 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
 ---
 
